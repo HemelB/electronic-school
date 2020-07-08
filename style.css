@@ -1,0 +1,118 @@
+
+.navbar-expand-lg{
+    padding-bottom: 60px;
+}
+.custom-bg{
+    background-color: rgb(240, 247, 232);
+}
+.nav-link{
+    font-size: 16px;
+    margin: 5px;
+    color: black;
+}
+#activebtn{
+    color: blue !important;
+
+}
+.nav-link:hover{
+    color:blue !important;
+    font-weight: 700;
+}
+.menu-right-btn{
+    background-color: #28a745;
+    border-radius: 20px;
+    padding: 8px 18px;
+    color: white;
+    font-weight: 500;
+    border-color: transparent;
+}
+.menu-right-btn:hover{
+color:black;
+background-color: blue;
+}
+.speech{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 50px;
+}
+#learn{
+    color: crimson;
+    font font-size: 12px;
+}
+#keyword{
+    color: #28a745;
+}
+.banner-img{
+    padding-right: 80px;
+    padding-bottom: 30px;
+}
+.btn-success{
+    border-radius: 25px;
+    padding: 8px 25px;
+}
+.mainbanner{
+    margin-bottom: 30px;
+}
+.carddeck{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.card{
+    border:none;
+    background-color: rgb(240, 247, 232);
+    border-radius: 15px;
+}
+.card:hover{
+    color: blue;
+    background-color: white;
+    box-shadow: gainsboro 5px 5px 20px;
+}
+.carddeck img{
+    width: 100px;
+    height: 120px;
+    margin: 0 auto;
+}
+.card-text{
+    font-weight: lighter;
+}
+.course-tag{
+    text-align: center;
+    margin: 40px 0;
+}
+.card-img-top{
+    padding: 15px 15px;
+}
+.bd-highlight{
+    margin-top: 20px;
+    font-weight: 600;
+}
+.feedback{
+    text-align: center;
+    margin: 40px 0;
+}
+#customer{
+    display: flex;
+    float: left;
+    margin: 0 100px;
+    margin-bottom: 100px;
+}
+.customer{
+    margin-right: 40px;
+}
+#footer{
+    margin-top: 200px;
+    background-color: rgb(12, 12, 12);
+    color: white;
+}
+.list{
+    line-height:0.5;
+}
+.list p{
+    font-size: 14px;
+}
+#footer-text{
+    font-size: 12px;
+    text-align: center;
+    margin: 30px;
+    padding-bottom: 30px;
+}
+
